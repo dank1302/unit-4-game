@@ -31,13 +31,13 @@ $(document).ready(function() {
     function nice() {
         alert("Nice, you won that round!");
         wins++;
-        $(`#wins`).text(wins);
+        $(`#wins`).text("Wins: " + wins);
         reset();
     }
    function bummer() {
        alert("Bummer, you lost that round!");
        losses++;
-       $(`#losses`).text(losses);
+       $(`#losses`).text("Losses: " + losses);
        reset();
    }
 

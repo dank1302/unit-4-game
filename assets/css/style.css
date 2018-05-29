@@ -1,0 +1,68 @@
+.blue{
+    height:100px;
+    width:100px;
+}
+.green{
+    margin-right:10px;
+    float:left;
+    width:100px;
+    height:100px;
+}
+.pink{
+    margin-right:10px;
+    float:left;
+    width:100px;
+    height:100px;
+}
+.yellow{
+    margin-right:10px;
+    float:left;
+    width:100px;
+    height:100px;
+}
+body{
+    background-color: royalblue;
+}
+.container1{
+    background-color: blueviolet;
+    margin-left:400px;
+    width: 800px;
+    height:700px;
+}
+
+h1{
+    margin-left:250px;
+    margin-top:50px;
+    width:300px;
+    color: royalblue;
+    background-color: white;
+    
+}
+.container7{
+    margin-left:20px;
+    width:250px;
+    height:50px;
+}
+.container8{
+    
+    font-size: 40px;
+    margin-left:300px;
+}
+.container4{
+    margin-left:20px;
+    font-size: 40px;
+}
+.container3{
+    margin-left:20px;
+    margin-right:20px;
+    text-align: center;
+    background-color: white;
+    color:royalblue;
+    font-weight: bold;
+}
+.container5{
+    margin-left:20px;
+}
+.container6{
+    margin-left:20px;
+}
