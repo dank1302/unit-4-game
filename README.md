@@ -1,5 +1,7 @@
 # unit-4-game.github.io
+
 crystals game:
+
      This project is a game titled the Crystals game in which I have programmed 4 crystals to hold a hidden numeric value that
      the user can click on in order to attain the random number given to them at the start of the game. Each crystal holds a value ranging
      from 1 to 12, while the random number is generated to be between 19 and 120. If the player is able to figure out which crystals
